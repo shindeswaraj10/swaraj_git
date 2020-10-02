@@ -1,6 +1,4 @@
-//Chatak Shinde.
-//batch F3
-//Roll No.:-663
+//Swaraj Shinde
 //menu driven program in c to demostrate the use of left shift, right shift, and, or, XOR operators.
 
 
@@ -59,6 +57,7 @@ break;}
 while(opt!=6);
 
 getch();
+	
 }
 
 
